@@ -9,7 +9,4 @@ This project is a starting point for a Flutter application.
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - [Package: Geolocator ](https://pub.dev/packages/geolocator)
 - [Package: Lottie](https://pub.dev/packages/lottie)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [API: OpenWeatherAPI](https://openweathermap.org/)
