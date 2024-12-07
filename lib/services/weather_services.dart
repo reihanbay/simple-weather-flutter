@@ -9,7 +9,6 @@ class WeatherServices {
   static const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
   final String apiKey;
 
-  // "250d1b732b72e1efcbeb850fea7dec0e"
 
   WeatherServices(this.apiKey);
 
